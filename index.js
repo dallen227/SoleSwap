@@ -16,7 +16,7 @@ document.addEventListener('DOMContentLoaded', function() {
         localStorage.setItem('cart', JSON.stringify(cart)); 
 
 
-        alert('Item added to your cart!');
+        alert('Item added to your cart, looking fresh!');
     });
 
     document.querySelector('.buy-now').addEventListener('click', function() {
